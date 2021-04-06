@@ -21,7 +21,7 @@
 title: Megan writes about things
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Where I write some code and use words to describe the major questions. 
+  Where I write about code, data, and math. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
