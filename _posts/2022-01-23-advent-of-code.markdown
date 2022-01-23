@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  testing Jekyll!2
-date:   2021-03-02 00:13:37 +0100
+title:  The Advent of Code in January?
+date:   2021-01-23 00:13:37 +0100
 categories: Python algorithms
 ---
-
-## The Advent of Code in January? 
 
 It might sound a little odd, talking about the [adventofcode][adventofcode] in January, but every year I start it and every year I forget that December is an extremely busy month. Between holiday plans and end of the year work projects, I usually only get to some of the puzzles in the coding advent calendar. Then I celebrate the new year and put it aside until next year. 
 
