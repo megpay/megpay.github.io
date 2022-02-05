@@ -1,1 +1,0 @@
-# megpay.github.io
