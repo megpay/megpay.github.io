@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: article
 title:  The Advent of Code in January?
-date:   2021-01-23 00:13:37 +0100
+date:   2022-01-23 00:13:37 +0100
 categories: Python algorithms
 ---
 
